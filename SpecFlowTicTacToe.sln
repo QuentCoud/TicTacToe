@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTicTacToe", "SpecFlowTicTacToe\SpecFlowTicTacToe.csproj", "{6B17736A-591A-48B3-96ED-120F554CC2DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowTicTacToe.Specs", "SpecFlowTicTacToe.Specs\SpecFlowTicTacToe.Specs.csproj", "{9D695871-F92F-402B-B278-7966302A227E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B17736A-591A-48B3-96ED-120F554CC2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B17736A-591A-48B3-96ED-120F554CC2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B17736A-591A-48B3-96ED-120F554CC2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B17736A-591A-48B3-96ED-120F554CC2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D695871-F92F-402B-B278-7966302A227E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D695871-F92F-402B-B278-7966302A227E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D695871-F92F-402B-B278-7966302A227E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D695871-F92F-402B-B278-7966302A227E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/bin/Debug/net6.0/SpecFlowTicTacToe.deps.json
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/bin/Debug/net6.0/SpecFlowTicTacToe.dll
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/bin/Debug/net6.0/ref/SpecFlowTicTacToe.dll
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/bin/Debug/net6.0/SpecFlowTicTacToe.pdb
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/obj/Debug/net6.0/SpecFlowTicTacToe.csproj.AssemblyReference.cache
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/obj/Debug/net6.0/SpecFlowTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/obj/Debug/net6.0/SpecFlowTicTacToe.AssemblyInfoInputs.cache
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/obj/Debug/net6.0/SpecFlowTicTacToe.AssemblyInfo.cs
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/obj/Debug/net6.0/SpecFlowTicTacToe.csproj.CoreCompileInputs.cache
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/obj/Debug/net6.0/SpecFlowTicTacToe.dll
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/obj/Debug/net6.0/ref/SpecFlowTicTacToe.dll
+/home/qcouderc/RiderProjects/SpecFlowTicTacToe/SpecFlowTicTacToe/obj/Debug/net6.0/SpecFlowTicTacToe.pdb
